@@ -1,0 +1,330 @@
+.linhas {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    transform: rotate(90deg);
+  }
+ 
+  .quadrado1 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(108, 243, 108);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+  }
+  .quadradoE1 {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(108, 243, 108);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  .quadradoE2 {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(108, 243, 108);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }.quadradoE3 {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(108, 243, 108);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }.quadradoE4 {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(108, 243, 108);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }.quadradoE5 {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(108, 243, 108);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }.quadradoD1 {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(108, 243, 108);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }.quadradoD2 {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(108, 243, 108);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }.quadradoD3 {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(108, 243, 108);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }.quadradoD4 {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(108, 243, 108);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }.quadradoD5 {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(108, 243, 108);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  .quadradoC1 {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(255, 208, 121);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }.quadradoC2 {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(255, 208, 121);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }.quadradoC3 {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(255, 208, 121);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }.quadradoC4 {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(255, 208, 121);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }.quadradoC5 {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(255, 208, 121);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  .quadradoB1 {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(152, 255, 255);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  .quadradoB2 {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(152, 255, 255);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  .quadradoB8 {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(152, 255, 255);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  .quadradoB9 {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(152, 255, 255);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  .quadradoA1 {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(152, 255, 255);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  .quadradoA2 {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(152, 255, 255);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  .quadradoA8 {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(152, 255, 255);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  .quadradoA9 {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(152, 255, 255);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  .quadradoB3 {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(252, 115, 115);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  .quadradoB7 {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(252, 115, 115);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  .quadradoA3 {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(252, 115, 115);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  .quadradoA7 {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(252, 115, 115);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  .quadradoB4 {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(107, 107, 247);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  } .quadradoB5 {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(107, 107, 247);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  } .quadradoB6 {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(107, 107, 247);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  } .quadradoA4 {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(107, 107, 247);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  } .quadradoA5 {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(107, 107, 247);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  } .quadradoA6 {
+    width: 25px;
+    height: 25px;
+    background-color: rgb(107, 107, 247);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  body{
+    background-color: black;
+  }
+  .quadrado:hover {
+    background-color: #444;
+  }
+  h6{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    display: flex;
+    justify-content: right;
+    
+  }
+  .quadrado4:hover {
+    background-color: #444;
+  } .quadrado3:hover {
+    background-color: #444;
+  } .quadrado2:hover {
+    background-color: #444;
+  } .quadrado1:hover {
+    background-color: #444;
+  }
+  .quadradop {
+    width: 15px;
+    height: 15px;
+    background-color: rgb(107, 107, 247);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 2px;
+  }
+  .quadrado1p {
+    width: 15px;
+    height: 15px;
+    background-color: rgb(108, 243, 108);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 2px;
+  }
+  .quadrado2p {
+    width: 15px;
+    height: 15px;
+    background-color: rgb(255, 208, 121);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 2px;
+  }
+  .quadrado3p {
+    width: 15px;
+    height: 15px;
+    background-color: rgb(152, 255, 255);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 2px;
+  }
+  .quadrado4p {
+    width: 15px;
+    height: 15px;
+    background-color: rgb(252, 115, 115);
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 2px;
+  }
+  h1{
+    color: white;
+    transform: rotate(270deg);
+    font-family:'Courier New', Courier, monospace;
+  }
